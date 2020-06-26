@@ -1,3 +1,3 @@
-# Mortred
+# Go Boilerplate
 
-This gonna be API
+Still working on this Readme file
